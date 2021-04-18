@@ -1,1 +1,0 @@
-# tecashe-front-end-appio
