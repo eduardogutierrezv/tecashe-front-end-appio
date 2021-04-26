@@ -3,7 +3,11 @@
 // The list of file replacements can be found in `angular.json`.
 
 export const environment = {
-  production: false
+  production: false,
+  protocolo:"http://",
+  url:"192.168.0.10",
+  port:":8080"
+
 };
 
 /*
